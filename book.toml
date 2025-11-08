@@ -1,0 +1,18 @@
+[book]
+authors = ["Yuka"]
+language = "zh-CN"
+multilingual = false
+src = ""
+title = "Credal-Transformer"
+
+
+[output.html]
+site-url = "/Credal-Transformer/"
+default-theme = "black"
+preferred-dark-theme = "black"
+git-repository-url = "https://github.com/Chunjiang-Intelligence/Credal-Transformer/"
+git-repository-icon = "fa-github"
+
+
+[output.html.playground]
+editable = true
