@@ -1,1 +1,1 @@
-python -m credal_transformer.main
+python -m src.main
